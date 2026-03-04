@@ -1,4 +1,4 @@
-# 🔬 intelligent-molecular-skeleton-design
+# 🔬 Molecular-skeleton-design
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -9,7 +9,7 @@ This repository provides a complete, modular workflow designed to integrate quan
 ## 🚀 Key Features
 
 * **End-to-End Pipeline** 🛣️: Offers a complete solution from problem definition to final prediction, covering all critical stages of a scientific research task.
-* **Intelligent Library Sampling** 🧬: Employs symmetry analysis and an innovative hybrid sampling strategy to efficiently select the most informative and representative subset from a vast combinatorial space, saving significant resources on subsequent DFT calculations.
+* **Library Sampling** 🧬: Employs symmetry analysis and an innovative hybrid sampling strategy to efficiently select the most informative and representative subset from a vast combinatorial space, saving significant resources on subsequent DFT calculations.
 * **Advanced Feature Engineering** 🛠️: Utilizes a three-stage "Filter-Embedded-Wrapper" strategy, combining Pearson correlation, SHAP feature importance, and iterative wrapper-based selection to precisely identify the optimal feature set.
 * **Efficient Hyperparameter Optimization** ⚡: Leverages the Bayesian Optimization algorithm to intelligently and efficiently search for the best hyperparameter combinations, far surpassing traditional grid or random search methods.
 * **Powerful Stacking Ensemble** 🧠: Integrates multiple high-performance base models (e.g., XGBoost, LightGBM) and trains a meta-learner to optimally combine their predictions, significantly boosting predictive accuracy and generalization.
