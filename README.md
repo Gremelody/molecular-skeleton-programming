@@ -1,4 +1,4 @@
-# 🔬 Molecular-skeleton-design
+# 🔬 Molecular-Skeleton-Programming
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
